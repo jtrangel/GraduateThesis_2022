@@ -5,3 +5,5 @@ Affiliation: Structure and Dynamics Laboratory <br>
 
 # Thesis video code under /vid
 
+Video uploaded here:
+https://youtu.be/iXmrGnGaWAI
